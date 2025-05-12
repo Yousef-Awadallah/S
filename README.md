@@ -1,1 +1,1 @@
-# Code for Red and Green LEDs
+# Code for Red and Green LEDs in Arduino IDE
